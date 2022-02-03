@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintImportReport", "PrintImportReport\PrintImportReport.csproj", "{6AD786F1-DB26-4C6C-B18B-420C3EFF8559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD786F1-DB26-4C6C-B18B-420C3EFF8559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD786F1-DB26-4C6C-B18B-420C3EFF8559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD786F1-DB26-4C6C-B18B-420C3EFF8559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD786F1-DB26-4C6C-B18B-420C3EFF8559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBE4A9CA-2004-48D5-A3C9-107AC3683AC7}
+	EndGlobalSection
+EndGlobal
